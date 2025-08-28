@@ -9,7 +9,7 @@ function App() {
     <div className="App">
     <Header/>
     <Imagem/>
-    <Cartao nome="Victor" nomecompleto="Victor Gabriel Bessemer Santos"/>
+    <Cartao nome="Miguel" nomecompleto="Miguel Bizerra Silva"/>
     <Footer/>
 
 
@@ -17,5 +17,6 @@ function App() {
     </div>
   );
 }
+
 
 export default App;
